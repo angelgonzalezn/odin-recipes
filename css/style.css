@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Satoshi;
+    src: url(../fonts/Satoshi-Regular.woff);
+}
+
+* {
+    background-color: #d4ebfd;
+}
+
+body {
+    font-family: Satoshi, system-ui, 'Open Sans', 'Helvetica Neue', sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
